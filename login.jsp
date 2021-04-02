@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name ="viewport" content = "width=device-width", initial-scale="1">
     <link rel="stylesheet" href="css/bootstrap.css">
-    <title>NumberLock Community</title>
+    <title>Algorithm Lab Community</title>
 </head>
 <body>
     <nav class = "navbar navbar-default">
@@ -16,7 +16,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="main.html">NCDG 테스트</a>
+            <a class="navbar-brand" href="main.html">CDG 테스트</a>
         </div>
     </nav>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
