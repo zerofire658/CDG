@@ -16,7 +16,14 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="main.html">CDG 테스트</a>
+            <a class="navbar-brand" href="main.jsp">CDG 테스트</a>
+        </div>
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav">
+                <li><a href="main.jsp">메인</a></li>
+
+            </ul>
+
         </div>
     </nav>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
